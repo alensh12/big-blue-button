@@ -1,6 +1,6 @@
 # big_blue_button
 
-A new Flutter project.
+A new Big Blue Button package.
 
 ## Getting Started
 
